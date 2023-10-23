@@ -1,0 +1,7 @@
+.idea
+
+
+**/out
+
+duplication/envs/*.json
+!duplication/envs/env.json
